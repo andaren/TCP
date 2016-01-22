@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Nov 11 23:54:36 CST 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=false
+onejar.checkbox=false
+jarname=TcpSocketServer_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.tagding.application.DiscardServer
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
